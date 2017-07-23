@@ -8,7 +8,8 @@ fun main(args: Array<String>) {
 
     //Getting the input from the console and converting it to int.
     /*val a  =  readLine()!!.toInt()
-    println(addition(5,a))*/
+    val b  =  readLine()!!.toInt()
+    println(addition(a,b))*/
 
     //Reads Line and Reverses the string.
     val word = readLine()
